@@ -8,7 +8,7 @@ const und = undefined; //undefined
 const nil = null; //null
 
 //Object types
-const list = [1, 2, 3, 4, 5, 6]; //Array (lista)'
+const list = [1, "2", 3, 4, 5, 6]; //Array (lista)'
 //Object
 const person = {
   firstName: "Fredrik",
@@ -17,7 +17,7 @@ const person = {
 
 //VARIABLES
 // var myVariable;
-let myVariable2 = "Fredrik";
+let myVariable2;
 const myVariable3 = "Thelin";
 myVariable2 = "Björn";
 
