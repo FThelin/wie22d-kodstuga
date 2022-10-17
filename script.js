@@ -98,8 +98,8 @@
 //   return num * 2;
 // }
 
-const btn = document.querySelector("button");
+// const btn = document.querySelector("button");
 
-btn.addEventListener("click", function () {
-  console.log("Du tryckte på knappen");
-});
+// btn.addEventListener("click", function () {
+//   console.log("Du tryckte på knappen");
+// });
